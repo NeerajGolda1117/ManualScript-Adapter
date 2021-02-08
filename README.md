@@ -1,0 +1,1 @@
+# ManualScript-Adapter
